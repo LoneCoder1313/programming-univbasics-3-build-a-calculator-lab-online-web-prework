@@ -41,5 +41,5 @@ end
 num1 = 81
 def square_root(num)
 #returns the square_root
-puts (81).
+puts (81)math.sqrt 
 end
