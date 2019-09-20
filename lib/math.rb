@@ -2,7 +2,7 @@
   num2 = "4"
 
 def addition(num1, num2)
-#=> adds two numbers togeter
+
 
 numers = ("num1, num2")
 end
