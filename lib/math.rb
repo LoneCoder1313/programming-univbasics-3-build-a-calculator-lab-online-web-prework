@@ -3,7 +3,7 @@
 
 def addition(num1, num2)
 #=> adds two numbers togeter
-expect(addition(5, 4)).to eq(9)
+
 numers = ("num1, num2")
 end
 
