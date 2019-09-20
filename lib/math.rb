@@ -22,10 +22,20 @@ puts (50 / 2).to eq(25)
 end 
 end
 
-num1
+num1 = 4
+num2 = 30
+def multiplication(num1, num2)
+  #multiplication multiplies two numbers together
+  puts (4 * 30).to eq(120)
+end 
+end 
 
+num1 = 34
+num2 = 5 
 def modulo(num1, num2)
-
+#modulo returns the remainder of two numbers 
+puts (34 % 5).to eq(4)
+end 
 end
 
 
