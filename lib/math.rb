@@ -22,6 +22,7 @@ puts (50 / 2).to eq(25)
 end 
 end
 
+num1
 
 def modulo(num1, num2)
 
