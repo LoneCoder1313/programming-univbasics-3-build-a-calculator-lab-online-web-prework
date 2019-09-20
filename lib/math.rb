@@ -14,12 +14,12 @@ def subtraction(num1, num2)
 end
 end
 
-
-
+num1 = 50
+num2 = 2 
 def division(num1, num2)
-  #
-
-
+  #division divides one number by another
+puts (50 / 2).to eq(25)
+end 
 end
 
 
