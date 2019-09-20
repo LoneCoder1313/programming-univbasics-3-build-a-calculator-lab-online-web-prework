@@ -38,7 +38,8 @@ puts (34 % 5)
 end 
 end
 
-
+num1 = 81
 def square_root(num)
-
+#returns the square_root
+puts (81).
 end
