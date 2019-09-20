@@ -2,7 +2,7 @@
 def addition(num1, num2)
 num1 = 10 
 num2 = 20
-puts 
+puts num1 + num2 
 
 numers = ("num1, num2")
 end
