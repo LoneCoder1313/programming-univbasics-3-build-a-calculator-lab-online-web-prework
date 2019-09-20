@@ -1,6 +1,6 @@
 
 def addition(num1, num2)
-  # 
+  # adds two numbers together
 end
 
 
