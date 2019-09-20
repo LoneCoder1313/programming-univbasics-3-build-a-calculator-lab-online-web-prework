@@ -34,7 +34,7 @@ num1 = 34
 num2 = 5 
 def modulo(num1, num2)
 #modulo returns the remainder of two numbers 
-puts (34 % 5).to eq(4)
+puts (34 % 5)
 end 
 end
 
